@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+.env
+.venv
+venv/
+*.mp4
+*.jpg
+*.jpeg
+*.png
+node_modules
+.git
+.gitignore
+README.md
+*.md
