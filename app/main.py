@@ -5,7 +5,7 @@ from fastapi.background import BackgroundTasks
 import os
 import tempfile
 
-from .metadata import apply_profile, read_metadata, detect_file_type
+from metadata import apply_profile, read_metadata, detect_file_type
 
 app = FastAPI(title="AutoRayban API")
 
